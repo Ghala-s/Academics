@@ -1,0 +1,80 @@
+body {
+background-color: #070120;
+}
+
+h1 {
+color: #FFFFFF;
+     color: white;
+  /*text-shadow: 1px 1px 2px black, 0 0 25px #FFF500, 0 0 5px  #AFAB43;*/
+    text-shadow: 1px 1px 2px black, 0 0 25px #EFCB5D , 0 0 5px  #B24981;
+     font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+h2 {
+    color: #6AC1ED;
+    font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+h3 {
+  color: #FFCBE7;
+    font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h4 {
+    color: #8E5DEF;
+    font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+color: #FFFFFF;
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+li{
+  /*color: #EFCB5D;*/
+    color: #FFCBE7;
+}
+
+.rec {
+ color: #EFCB5D ;
+    font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rec:hover {
+ color: #B24981;
+    font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rec2 {
+ color: #ADEBFF;
+ font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.rec2:hover {
+ color: #69B1C8;
+    font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+table, td, th {
+ border: 0px solid;
+}
+
+

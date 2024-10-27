@@ -1,0 +1,78 @@
+body {
+background-color: #FFFBED;
+}
+
+h1 {
+color: #005386 /* #52ACE4 #C21971*/ ;
+     /*color: white;*/
+  /*text-shadow: 1px 1px 2px black, 0 0 25px #FFF500, 0 0 5px  #AFAB43;*/
+   /* text-shadow: 1px 1px 2px black, 0 0 25px #EFCB5D , 0 0 5px  #B24981;*/
+     font-family: "Comic Sans MS";
+  font-weight: 600;
+  font-style: normal;
+}
+
+h2 {
+    color:  #C21971;
+    font-family: "Comic Sans MS";
+  font-weight: 600;
+  font-style: normal;
+}
+
+h3 {
+  color: #5C2977;
+    font-family: "Comic Sans MS";
+  font-weight: 400;
+  font-style: normal;
+}
+
+h4 {
+    color:#5C2977;
+    font-family: "Comic Sans MS";
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+color: #64C3FF;
+  font-family: "Comic Sans MS";
+  font-weight: 400;
+  font-style: normal;
+}
+
+li{
+/*color: #EFCB5D;*/
+    color: #64C3FF;
+.rec {
+ color: #64C3FF /*#C2759C*/ ;
+    font-family: "Comic Sans MS";
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rec:hover {
+ color: #660136 ;
+    font-family: "Comic Sans MS";
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rec2 {
+ color: #5C2977 /*#A86E74*/;
+ font-family: "Comic Sans MS";
+  font-weight: 500;
+  font-style: normal;
+}
+
+.rec2:hover {
+ color: #4D1C63;
+    font-family: "Comic Sans MS";
+  font-weight: 500;
+  font-style: normal;
+}
+
+table, td, th {
+ border: 0px solid;
+}
+
+
