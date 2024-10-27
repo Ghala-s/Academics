@@ -3,5 +3,6 @@ This course is an introduction to multimedia concepts and explores the use of di
 
 
 Assignment2: Built a milestone celebration website for the Computer Science Department using HTML and CSS
+
 Assignment3: Designed a personal Frozen-themed movie website, highlighting various aspects of the film through HTML and CSS
 
