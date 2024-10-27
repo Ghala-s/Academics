@@ -1,8 +1,6 @@
 """
 CS1026a 2023
 Assignment 01 Project 01 - Part A
-Ghala Basaad
-251384549
 gbasaad
 Oct 02, 2023
 """
