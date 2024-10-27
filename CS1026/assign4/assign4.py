@@ -1,5 +1,4 @@
-# Author: Ghala Basaad
-# Student Number: 251384549
+# 
 # Description: This file contains the implementation of classes related to product management, including Product, Inventory, ShoppingCart, and ProductCatalog.
 # Each class has specific functionalities for managing products, inventory, shopping carts, and product catalogs.
 
