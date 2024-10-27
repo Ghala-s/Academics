@@ -1,6 +1,4 @@
 """
-Ghala Basaad
-251384549
 gbasaad
 6/11/2023
 This file processes tweet data, calculates sentiment scores based on a provided keyword dictionary,
