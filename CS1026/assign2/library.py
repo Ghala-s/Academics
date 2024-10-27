@@ -1,8 +1,6 @@
 """
 CS1026a 2023
 Assignment 02
-Ghala Basaad
-251384549
 gbasaad
 """
 
