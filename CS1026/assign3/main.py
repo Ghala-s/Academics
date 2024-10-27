@@ -1,6 +1,4 @@
 """
-Ghala Basaad
-251384549
 gbasaad
 6/11/2023
 This file performs sentiment analysis on tweets using functions from sentiment_analysis module.
